@@ -12,7 +12,6 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		Calculator calc = new Calculator();
 
 		System.out.println("Enter radius: ");
 		double radius = sc.nextDouble();

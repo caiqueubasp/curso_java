@@ -37,6 +37,8 @@ public class Program {
 		
 		System.out.println();
 		System.out.println("Updated Student data: " + student);
+		
+		sc.close();
 
 	}
 

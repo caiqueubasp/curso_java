@@ -12,7 +12,6 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		CurrencyConverter cc = new CurrencyConverter();
 		
 		System.out.println("What is the dollar price? ");
 		CurrencyConverter.dollarPrice = sc.nextDouble();

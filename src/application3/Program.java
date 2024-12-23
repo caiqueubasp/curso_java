@@ -35,7 +35,7 @@ public class Program {
 		System.out.println("Encreased Salary: " + employee);
 		
 		
-		
+		sc.close();
 
 		
 	}
