@@ -9,7 +9,9 @@ public class Student {
 	public boolean isAproved;
 	public String studentStatus;
 	
-	
+	public Student() {
+
+	}
 	
 	public Student(String name, double grade1, double grade2, double grade3, String studentStatus) {
 		super();
